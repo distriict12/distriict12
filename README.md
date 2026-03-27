@@ -51,7 +51,7 @@
 
   <br>
 
-  <h3 align="left">Tools & Environment</h3>
+  <h3 align="left">Tools</h3>
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
