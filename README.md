@@ -21,11 +21,9 @@
 <h5 align="center">distriict12</h5>
 
 ###
-
-<details align="center">
+<div align="center">
+<details>
   <summary>🌿 More Info</summary>
-
-  <br>
 
   ###
 
@@ -76,6 +74,7 @@
 
   ###
 
+</div>
 </details>
 
 <div>
